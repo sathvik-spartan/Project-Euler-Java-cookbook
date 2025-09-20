@@ -1,8 +1,3 @@
-/** Multiples of 3 or 5
- *
- *
- */
-
 public class Solution1 {
     public static void main(String[] args) {
         int limit = 1000; // Since we need sum of multiples of 3 and 5.
@@ -18,4 +13,4 @@ public class Solution1 {
 
 /*
 Time complexity is O(n), where n is the limit.
- */
+*/
