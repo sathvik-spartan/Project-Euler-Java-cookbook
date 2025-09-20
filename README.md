@@ -1,4 +1,5 @@
-# Project Euler's Solutions written in Java.
+# Project Euler's Solutions written in Java. 
+[Project Euler](https://projecteuler.info/problems)
 
 ## Problem 1.
 - Multiples of 3 or 5     
