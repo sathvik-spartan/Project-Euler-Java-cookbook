@@ -1,4 +1,4 @@
-public class Test {
+public class odd_factorial {
     public static void main(String[] args) {
         int limit = 4_000_000;
         int a = 0, b = 1;
